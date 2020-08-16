@@ -10,8 +10,9 @@
 <tr>
 <td class="navbox-abovebelow" colspan="2">
 <div id="*Outline_*History_*Index">
+
+<p>Outline </p>
 <ul>
-<li><a class="mw-selflink selflink">Outline</a></li>
 <li><a title="History of energy" href="https://en.wikipedia.org/wiki/History_of_energy">History</a></li>
 <li><a title="Index of energy articles" href="https://en.wikipedia.org/wiki/Index_of_energy_articles">Index</a></li>
 </ul>
