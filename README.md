@@ -1,5 +1,270 @@
 <h2> Outline of energy </h2>
-
+</br>
+<table class="nowraplinks hlist mw-collapsible expanded navbox-inner mw-made-collapsible">
+<tbody>
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div id="Energy"><a title="" href="https://en.wikipedia.org/wiki/Energy">Energy</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div id="*Outline_*History_*Index">
+<ul>
+<li><a class="mw-selflink selflink">Outline</a></li>
+<li><a title="History of energy" href="https://en.wikipedia.org/wiki/History_of_energy">History</a></li>
+<li><a title="Index of energy articles" href="https://en.wikipedia.org/wiki/Index_of_energy_articles">Index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Fundamental concepts</th>
+<td class="navbox-list navbox-odd">
+<div>
+<ul>
+<li><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">Energy</a>&nbsp;
+<ul>
+<li><a title="Units of energy" href="https://en.wikipedia.org/wiki/Units_of_energy">Units</a></li>
+</ul>
+</li>
+<li><a title="Conservation of energy" href="https://en.wikipedia.org/wiki/Conservation_of_energy">Conservation of energy</a></li>
+<li><a title="Energetics" href="https://en.wikipedia.org/wiki/Energetics">Energetics</a></li>
+<li><a title="Energy transformation" href="https://en.wikipedia.org/wiki/Energy_transformation">Energy transformation</a></li>
+<li><a title="Energy condition" href="https://en.wikipedia.org/wiki/Energy_condition">Energy condition</a></li>
+<li><a title="Energy transition" href="https://en.wikipedia.org/wiki/Energy_transition">Energy transition</a></li>
+<li><a title="Energy level" href="https://en.wikipedia.org/wiki/Energy_level">Energy level</a></li>
+<li><a title="Energy system" href="https://en.wikipedia.org/wiki/Energy_system">Energy system</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a>&nbsp;
+<ul>
+<li><a title="Negative mass" href="https://en.wikipedia.org/wiki/Negative_mass">Negative mass</a></li>
+<li><a title="Mass&ndash;energy equivalence" href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">Mass&ndash;energy equivalence</a></li>
+</ul>
+</li>
+<li><a title="Power (physics)" href="https://en.wikipedia.org/wiki/Power_(physics)">Power</a></li>
+<li><a title="Thermodynamics" href="https://en.wikipedia.org/wiki/Thermodynamics">Thermodynamics</a>&nbsp;
+<ul>
+<li><a title="Quantum thermodynamics" href="https://en.wikipedia.org/wiki/Quantum_thermodynamics">Quantum thermodynamics</a></li>
+<li><a title="Laws of thermodynamics" href="https://en.wikipedia.org/wiki/Laws_of_thermodynamics">Laws of thermodynamics</a></li>
+<li><a title="Thermodynamic system" href="https://en.wikipedia.org/wiki/Thermodynamic_system">Thermodynamic system</a></li>
+<li><a title="Thermodynamic state" href="https://en.wikipedia.org/wiki/Thermodynamic_state">Thermodynamic state</a></li>
+<li><a title="Thermodynamic potential" href="https://en.wikipedia.org/wiki/Thermodynamic_potential">Thermodynamic potential</a></li>
+<li><a title="Thermodynamic free energy" href="https://en.wikipedia.org/wiki/Thermodynamic_free_energy">Thermodynamic free energy</a></li>
+<li><a title="Irreversible process" href="https://en.wikipedia.org/wiki/Irreversible_process">Irreversible process</a></li>
+<li><a title="Thermal reservoir" href="https://en.wikipedia.org/wiki/Thermal_reservoir">Thermal reservoir</a></li>
+<li><a title="Heat transfer" href="https://en.wikipedia.org/wiki/Heat_transfer">Heat transfer</a></li>
+<li><a title="Heat capacity" href="https://en.wikipedia.org/wiki/Heat_capacity">Heat capacity</a></li>
+<li><a title="Volume (thermodynamics)" href="https://en.wikipedia.org/wiki/Volume_(thermodynamics)">Volume (thermodynamics)</a></li>
+<li><a title="Thermodynamic equilibrium" href="https://en.wikipedia.org/wiki/Thermodynamic_equilibrium">Thermodynamic equilibrium</a></li>
+<li><a title="Thermal equilibrium" href="https://en.wikipedia.org/wiki/Thermal_equilibrium">Thermal equilibrium</a></li>
+<li><a title="Thermodynamic temperature" href="https://en.wikipedia.org/wiki/Thermodynamic_temperature">Thermodynamic temperature</a></li>
+<li><a title="Isolated system" href="https://en.wikipedia.org/wiki/Isolated_system">Isolated system</a></li>
+<li><a title="Entropy" href="https://en.wikipedia.org/wiki/Entropy">Entropy</a></li>
+<li><a title="Free entropy" href="https://en.wikipedia.org/wiki/Free_entropy">Free entropy</a></li>
+<li><a title="Entropic force" href="https://en.wikipedia.org/wiki/Entropic_force">Entropic force</a></li>
+<li><a title="Negentropy" href="https://en.wikipedia.org/wiki/Negentropy">Negentropy</a></li>
+<li><a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)">Work</a></li>
+<li><a title="Exergy" href="https://en.wikipedia.org/wiki/Exergy">Exergy</a></li>
+<li><a title="Enthalpy" href="https://en.wikipedia.org/wiki/Enthalpy">Enthalpy</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Types</th>
+<td class="navbox-list navbox-even">
+<div>
+<ul>
+<li><a title="Kinetic energy" href="https://en.wikipedia.org/wiki/Kinetic_energy">Kinetic</a></li>
+<li><a title="Internal energy" href="https://en.wikipedia.org/wiki/Internal_energy">Internal</a></li>
+<li><a title="Thermal energy" href="https://en.wikipedia.org/wiki/Thermal_energy">Thermal</a></li>
+<li><a title="Potential energy" href="https://en.wikipedia.org/wiki/Potential_energy">Potential</a></li>
+<li><a title="Gravitational energy" href="https://en.wikipedia.org/wiki/Gravitational_energy">Gravitational</a></li>
+<li><a title="Elastic energy" href="https://en.wikipedia.org/wiki/Elastic_energy">Elastic</a></li>
+<li><a title="Electric potential energy" href="https://en.wikipedia.org/wiki/Electric_potential_energy">Electric potential energy</a></li>
+<li><a title="Mechanical energy" href="https://en.wikipedia.org/wiki/Mechanical_energy">Mechanical</a></li>
+<li><a title="Interatomic potential" href="https://en.wikipedia.org/wiki/Interatomic_potential">Interatomic potential</a></li>
+<li><a title="Electrical energy" href="https://en.wikipedia.org/wiki/Electrical_energy">Electrical</a></li>
+<li><a title="Magnetic energy" href="https://en.wikipedia.org/wiki/Magnetic_energy">Magnetic</a></li>
+<li><a title="Ionization energy" href="https://en.wikipedia.org/wiki/Ionization_energy">Ionization</a></li>
+<li><a title="Radiant energy" href="https://en.wikipedia.org/wiki/Radiant_energy">Radiant</a></li>
+<li><a title="Binding energy" href="https://en.wikipedia.org/wiki/Binding_energy">Binding</a></li>
+<li><a title="Nuclear binding energy" href="https://en.wikipedia.org/wiki/Nuclear_binding_energy">Nuclear binding energy</a></li>
+<li><a title="Gravitational binding energy" href="https://en.wikipedia.org/wiki/Gravitational_binding_energy">Gravitational binding energy</a></li>
+<li><a class="mw-redirect" title="Chromodynamic energy" href="https://en.wikipedia.org/wiki/Chromodynamic_energy">Chromodynamic</a></li>
+<li><a title="Dark energy" href="https://en.wikipedia.org/wiki/Dark_energy">Dark</a></li>
+<li><a title="Quintessence (physics)" href="https://en.wikipedia.org/wiki/Quintessence_(physics)">Quintessence</a></li>
+<li><a title="Phantom energy" href="https://en.wikipedia.org/wiki/Phantom_energy">Phantom</a></li>
+<li><a title="Negative energy" href="https://en.wikipedia.org/wiki/Negative_energy">Negative</a></li>
+<li><a title="Chemical energy" href="https://en.wikipedia.org/wiki/Chemical_energy">Chemical</a></li>
+<li><a class="mw-redirect" title="Rest energy" href="https://en.wikipedia.org/wiki/Rest_energy">Rest</a></li>
+<li><a title="Sound energy" href="https://en.wikipedia.org/wiki/Sound_energy">Sound energy</a></li>
+<li><a title="Surface energy" href="https://en.wikipedia.org/wiki/Surface_energy">Surface energy</a></li>
+<li><a title="Mechanical wave" href="https://en.wikipedia.org/wiki/Mechanical_wave">Mechanical wave</a></li>
+<li><a class="mw-redirect" title="Sound wave" href="https://en.wikipedia.org/wiki/Sound_wave">Sound wave</a></li>
+<li><a title="Vacuum energy" href="https://en.wikipedia.org/wiki/Vacuum_energy">Vacuum energy</a></li>
+<li><a title="Zero-point energy" href="https://en.wikipedia.org/wiki/Zero-point_energy">Zero-point energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Energy carrier" href="https://en.wikipedia.org/wiki/Energy_carrier">Energy carriers</a></th>
+<td class="navbox-list navbox-odd">
+<div>
+<ul>
+<li><a title="Radiation" href="https://en.wikipedia.org/wiki/Radiation">Radiation</a></li>
+<li><a title="Enthalpy" href="https://en.wikipedia.org/wiki/Enthalpy">Enthalpy</a></li>
+<li><a title="Fuel" href="https://en.wikipedia.org/wiki/Fuel">Fuel</a>&nbsp;
+<ul>
+<li><a title="Fossil fuel" href="https://en.wikipedia.org/wiki/Fossil_fuel">fossil fuel</a></li>
+</ul>
+</li>
+<li><a title="Heat" href="https://en.wikipedia.org/wiki/Heat">Heat</a>&nbsp;
+<ul>
+<li><a title="Latent heat" href="https://en.wikipedia.org/wiki/Latent_heat">Latent heat</a></li>
+</ul>
+</li>
+<li><a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)">Work</a></li>
+<li><a title="Electricity" href="https://en.wikipedia.org/wiki/Electricity">Electricity</a></li>
+<li><a title="Electric battery" href="https://en.wikipedia.org/wiki/Electric_battery">Battery</a></li>
+<li><a title="Capacitor" href="https://en.wikipedia.org/wiki/Capacitor">Capacitor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Primary energy" href="https://en.wikipedia.org/wiki/Primary_energy">Primary energy</a></th>
+<td class="navbox-list navbox-even">
+<div>
+<ul>
+<li><a title="Fossil fuel" href="https://en.wikipedia.org/wiki/Fossil_fuel">Fossil fuel</a>&nbsp;
+<ul>
+<li><a title="Coal" href="https://en.wikipedia.org/wiki/Coal">Coal</a></li>
+<li><a title="Petroleum" href="https://en.wikipedia.org/wiki/Petroleum">Petroleum</a></li>
+<li><a title="Natural gas" href="https://en.wikipedia.org/wiki/Natural_gas">Natural gas</a></li>
+</ul>
+</li>
+<li><a title="Nuclear fuel" href="https://en.wikipedia.org/wiki/Nuclear_fuel">Nuclear fuel</a>&nbsp;
+<ul>
+<li><a title="Natural uranium" href="https://en.wikipedia.org/wiki/Natural_uranium">Natural uranium</a></li>
+</ul>
+</li>
+<li><a title="Radiant energy" href="https://en.wikipedia.org/wiki/Radiant_energy">Radiant energy</a></li>
+<li><a title="Solar energy" href="https://en.wikipedia.org/wiki/Solar_energy">Solar</a></li>
+<li><a class="mw-redirect" title="Wind energy" href="https://en.wikipedia.org/wiki/Wind_energy">Wind</a></li>
+<li><a title="Hydropower" href="https://en.wikipedia.org/wiki/Hydropower">Hydropower</a></li>
+<li><a title="Marine energy" href="https://en.wikipedia.org/wiki/Marine_energy">Marine energy</a></li>
+<li><a title="Geothermal energy" href="https://en.wikipedia.org/wiki/Geothermal_energy">Geothermal</a></li>
+<li><a title="Bioenergy" href="https://en.wikipedia.org/wiki/Bioenergy">Bioenergy</a></li>
+<li><a title="Gravitational energy" href="https://en.wikipedia.org/wiki/Gravitational_energy">Gravitational energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Energy system" href="https://en.wikipedia.org/wiki/Energy_system">Energy system</a><br />components</th>
+<td class="navbox-list navbox-odd">
+<div>
+<ul>
+<li><a title="Energy engineering" href="https://en.wikipedia.org/wiki/Energy_engineering">Energy engineering</a></li>
+<li><a title="Oil refinery" href="https://en.wikipedia.org/wiki/Oil_refinery">Oil refinery</a></li>
+<li><a title="Electric power" href="https://en.wikipedia.org/wiki/Electric_power">Electric power</a></li>
+<li><a title="Fossil fuel power station" href="https://en.wikipedia.org/wiki/Fossil_fuel_power_station">Fossil fuel power station</a>&nbsp;
+<ul>
+<li><a title="Cogeneration" href="https://en.wikipedia.org/wiki/Cogeneration">Cogeneration</a></li>
+<li><a title="Integrated gasification combined cycle" href="https://en.wikipedia.org/wiki/Integrated_gasification_combined_cycle">Integrated gasification combined cycle</a></li>
+</ul>
+</li>
+<li><a title="Nuclear power" href="https://en.wikipedia.org/wiki/Nuclear_power">Nuclear power</a>&nbsp;
+<ul>
+<li><a title="Nuclear power plant" href="https://en.wikipedia.org/wiki/Nuclear_power_plant">Nuclear power plant</a></li>
+<li><a title="Radioisotope thermoelectric generator" href="https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator">Radioisotope thermoelectric generator</a></li>
+</ul>
+</li>
+<li><a title="Solar power" href="https://en.wikipedia.org/wiki/Solar_power">Solar power</a>&nbsp;
+<ul>
+<li><a title="Photovoltaic system" href="https://en.wikipedia.org/wiki/Photovoltaic_system">Photovoltaic system</a></li>
+<li><a title="Concentrated solar power" href="https://en.wikipedia.org/wiki/Concentrated_solar_power">Concentrated solar power</a></li>
+</ul>
+</li>
+<li><a title="Solar thermal energy" href="https://en.wikipedia.org/wiki/Solar_thermal_energy">Solar thermal energy</a>&nbsp;
+<ul>
+<li><a title="Solar power tower" href="https://en.wikipedia.org/wiki/Solar_power_tower">Solar power tower</a></li>
+<li><a title="Solar furnace" href="https://en.wikipedia.org/wiki/Solar_furnace">Solar furnace</a></li>
+</ul>
+</li>
+<li><a title="Wind power" href="https://en.wikipedia.org/wiki/Wind_power">Wind power</a>&nbsp;
+<ul>
+<li><a title="Wind farm" href="https://en.wikipedia.org/wiki/Wind_farm">Wind farm</a></li>
+<li><a title="Airborne wind energy" href="https://en.wikipedia.org/wiki/Airborne_wind_energy">Airborne wind energy</a></li>
+</ul>
+</li>
+<li><a title="Hydropower" href="https://en.wikipedia.org/wiki/Hydropower">Hydropower</a>&nbsp;
+<ul>
+<li><a title="Hydroelectricity" href="https://en.wikipedia.org/wiki/Hydroelectricity">Hydroelectricity</a></li>
+<li><a title="Wave farm" href="https://en.wikipedia.org/wiki/Wave_farm">Wave farm</a></li>
+<li><a title="Tidal power" href="https://en.wikipedia.org/wiki/Tidal_power">Tidal power</a></li>
+</ul>
+</li>
+<li><a title="Geothermal power" href="https://en.wikipedia.org/wiki/Geothermal_power">Geothermal power</a></li>
+<li><a title="Biomass" href="https://en.wikipedia.org/wiki/Biomass">Biomass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Use and<br /><a title="Energy supply" href="https://en.wikipedia.org/wiki/Energy_supply">supply</a></th>
+<td class="navbox-list navbox-even">
+<div>
+<ul>
+<li><a title="Energy consumption" href="https://en.wikipedia.org/wiki/Energy_consumption">Energy consumption</a></li>
+<li><a title="Energy storage" href="https://en.wikipedia.org/wiki/Energy_storage">Energy storage</a></li>
+<li><a title="World energy consumption" href="https://en.wikipedia.org/wiki/World_energy_consumption">World energy consumption</a></li>
+<li><a title="Energy security" href="https://en.wikipedia.org/wiki/Energy_security">Energy security</a></li>
+<li><a title="Energy conservation" href="https://en.wikipedia.org/wiki/Energy_conservation">Energy conservation</a></li>
+<li><a title="Efficient energy use" href="https://en.wikipedia.org/wiki/Efficient_energy_use">Efficient energy use</a>&nbsp;
+<ul>
+<li><a title="Energy efficiency in transport" href="https://en.wikipedia.org/wiki/Energy_efficiency_in_transport">Transport</a></li>
+<li><a title="Energy efficiency in agriculture" href="https://en.wikipedia.org/wiki/Energy_efficiency_in_agriculture">Agriculture</a></li>
+</ul>
+</li>
+<li><a title="Renewable energy" href="https://en.wikipedia.org/wiki/Renewable_energy">Renewable energy</a></li>
+<li><a title="Sustainable energy" href="https://en.wikipedia.org/wiki/Sustainable_energy">Sustainable energy</a></li>
+<li><a title="Energy policy" href="https://en.wikipedia.org/wiki/Energy_policy">Energy policy</a>&nbsp;
+<ul>
+<li><a title="Energy development" href="https://en.wikipedia.org/wiki/Energy_development">Energy development</a></li>
+</ul>
+</li>
+<li><a title="Worldwide energy supply" href="https://en.wikipedia.org/wiki/Worldwide_energy_supply">Worldwide energy supply</a></li>
+<li><a title="Energy in South America" href="https://en.wikipedia.org/wiki/Energy_in_South_America">South America</a></li>
+<li><a title="Energy in the United States" href="https://en.wikipedia.org/wiki/Energy_in_the_United_States">USA</a></li>
+<li><a title="Energy in Mexico" href="https://en.wikipedia.org/wiki/Energy_in_Mexico">Mexico</a></li>
+<li><a title="Energy policy of Canada" href="https://en.wikipedia.org/wiki/Energy_policy_of_Canada">Canada</a></li>
+<li><a title="Energy in Europe" href="https://en.wikipedia.org/wiki/Energy_in_Europe">Europe</a></li>
+<li><a title="Category:Energy in Asia" href="https://en.wikipedia.org/wiki/Category:Energy_in_Asia">Asia</a></li>
+<li><a title="Energy in Africa" href="https://en.wikipedia.org/wiki/Energy_in_Africa">Africa</a></li>
+<li><a title="Energy in Australia" href="https://en.wikipedia.org/wiki/Energy_in_Australia">Australia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Misc.</th>
+<td class="navbox-list navbox-odd">
+<div>
+<ul>
+<li><a title="Jevons paradox" href="https://en.wikipedia.org/wiki/Jevons_paradox">Jevons paradox</a></li>
+<li><a title="Carbon footprint" href="https://en.wikipedia.org/wiki/Carbon_footprint">Carbon footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 <p><strong><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">Energy</a></strong>&nbsp;&ndash; in&nbsp;<a title="Physics" href="https://en.wikipedia.org/wiki/Physics">physics</a>, this is an indirectly observed quantity often understood as the ability of a&nbsp;<a title="Physical system" href="https://en.wikipedia.org/wiki/Physical_system">physical system</a>&nbsp;to do&nbsp;<a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)">work</a>&nbsp;on other physical systems.<sup id="cite_ref-1" class="reference"></sup><sup id="cite_ref-2" class="reference"></sup>&nbsp;Since work is defined as a&nbsp;<a title="Force" href="https://en.wikipedia.org/wiki/Force">force</a>&nbsp;acting through a distance (a length of space), energy is always equivalent to the ability to exert force (a pull or a push) against an object that is moving along a definite path of certain length.</p>
 <p>&nbsp;</p>
 
